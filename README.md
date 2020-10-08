@@ -1,5 +1,5 @@
 # Weather-App
-The API used here is the openweathermap api.
+The API used here is the openweathermap api(https://openweathermap.org/api).
 
 If the city you typed doesn't show any results then that city is probably not present in the databases of openweathermap and its not able to get any response.
 
